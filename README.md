@@ -2,7 +2,7 @@ Your README looks great! Here’s a polished structure that integrates all the c
 
 ---
 
-# EXOEXPLORER: Augmented Reality APP
+# EXOEXPLORER: Introduction Frontend
 
 **EXOEXPLORER** is an innovative space exploration app designed for the [NASA Space Apps Challenge 2024](https://www.spaceappschallenge.org/). This app provides a main interface with three key modes:
 
